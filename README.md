@@ -1,12 +1,11 @@
 # Tauri + Scala.js
 This is a direct porting of tauri with vanilla javascript demo to scala.js
 
-### Scala.js compile
-1. run sbt
-1. use fastCopy / fullCopy command for compiling and copying of result js file to src directory
-
-### Tauri
+### Run
+1. git clone https://github.com/nineclue/sjs-tauri-demo.git
+1. cd sjs-tauri-demo
 1. npm install
+1. sbt fastCopy
 1. npm run tauri dev
 
 <img src="tauri_scalajs.jpg" alt="ScreenShot">
