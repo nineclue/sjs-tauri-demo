@@ -1,7 +1,7 @@
 {
-  "productName": "sjs-tauri_test",
+  "productName": "tauri_scalajs_demo",
   "version": "0.0.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "net.nineclue",
   "build": {
     "frontendDist": "../src"
   },
@@ -9,7 +9,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "sjs-tauri_test",
+        "title": "Tauri with Scala.js",
         "width": 800,
         "height": 600
       }
