@@ -9,5 +9,6 @@ This is a direct porting of tauri with vanilla javascript demo to scala.js
 1. npm install
 1. npm run tauri dev
 
-![ScreenShot]("tauri_scalajs.jpg")
+<img src="tauri_scalajs.jpg" alt="ScreenShot">
+<!-- ![ScreenShot]("tauri_scalajs.jpg") -->
                
