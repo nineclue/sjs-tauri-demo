@@ -9,4 +9,4 @@ This is a direct porting of tauri with vanilla javascript demo to scala.js
 1. npm install
 1. npm run tauri dev
 
-![ScreenShot]("https://github.com/nineclue/sjs-tauri-demo/blob/main/tauri_scalajs.jpg")
+![ScreenShot]("https://github.com/nineclue/sjs-tauri-demo/blob/ff1e597dfb3164c4d5a207ce7503555ea47a5fdf/tauri_scalajs.jpg")
