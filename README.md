@@ -1,5 +1,5 @@
 # Tauri + Scala.js
-This is a direct porting of tauri with vanilla javascript demo to scala.js
+This is a port of tauri with vanilla javascript demo to scala.js. Most of DOM elements in index.html has been moved to scalatags and commented out. `src/main.js` is not needed to run but included to compare logic.
 
 ### Run
 1. git clone https://github.com/nineclue/sjs-tauri-demo.git
@@ -9,5 +9,3 @@ This is a direct porting of tauri with vanilla javascript demo to scala.js
 1. npm run tauri dev
 
 <img src="tauri_scalajs.jpg" alt="ScreenShot">
-<!-- ![ScreenShot]("tauri_scalajs.jpg") -->
-               
