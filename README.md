@@ -1,7 +1,12 @@
-# Tauri + Vanilla
+# Tauri + Scala.js
+This is a direct porting of tauri with vanilla javascript demo to scala.js
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+# Scala.js compile
+1. run sbt
+1. use fastCopy / fullCopy command for compiling and copying of result js file to src directory
 
-## Recommended IDE Setup
+# Tauri
+1. npm install
+1. npm run tauri dev
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+![Running Image]("tauri_scalajs.jpg")

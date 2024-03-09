@@ -5,7 +5,6 @@ import org.scalajs.dom.{document, window}
 import scalatags.JsDom.all.*
 import org.scalajs.dom.Event
 import scala.scalajs.js, js.annotation.JSGlobal
-import org.scalajs.dom.Window
 import scala.scalajs.js.Promise
 import scala.scalajs.js.Thenable.Implicits.*
 
